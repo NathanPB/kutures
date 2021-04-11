@@ -1,0 +1,6 @@
+{
+  "name": "kutures-test",
+  "dependencies": {
+    "kutures": "file:../../../build/js/packages/kutures"
+  }
+}
